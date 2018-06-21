@@ -1,0 +1,11 @@
+
+non-direct access data structures
+queue
+stack
+linked-list (singly)
+
+direct access data structure
+sequential indexed array (regular array)
+associative indexed array (hash map)
+
+

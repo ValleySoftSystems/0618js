@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<script type="text/javascript" src="serverData.js"></script>
+
+<script type="text/javascript">
+	
+
+function printCapitalCity(countryName){
+    console.log(capitalCities[countryName]);
+}
+
+function onUserRequest() {
+	const countryName = document.getElementById("userCountry").value;
+	printCapitalCity(countryName);
+}
+
+
+</script>
+
+<body>
+
+
+<input type="text" id="userCountry" placeholder="enter your country name"><br>
+<input type="button" onclick="onUserRequest()" value="submit">
+
+</body>
+</html>

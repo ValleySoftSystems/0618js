@@ -1,0 +1,15 @@
+
+Srikanth
+3e16582801983e5f5ef34905a511f6a4
+
+Trump
+a9638fa318fa8bb1283ac962f9052812
+
+Sankrant10kaPanduga!
+e05148700c289999611ef6a61ead2c80
+
+user enters plain password
+your code should read it from html form and
+do base64 encode
+browser -> U2Fua3JhbnQxMGthUGFuZHVnYSE= -> F.E server
+F.E -> 
